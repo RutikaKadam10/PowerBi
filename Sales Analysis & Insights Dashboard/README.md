@@ -7,8 +7,8 @@ Shipping Mode Trends: Analysis of total orders segmented by quarter and shipping
 Category Performance: A bar chart highlighting sales across various sub-categories.
 This project demonstrates effective data visualization techniques to help businesses identify trends, track performance, and make data-driven decisions.
 
-Features:
-Interactive Filters: Dynamic filtering by order date and shipping modes.
-Geographic Insights: Mapping business activity by country.
-Visual KPIs: At-a-glance metrics for quick insights.
-Trend Analysis: Year-over-year and quarterly trends for total orders.
+Features:<br>
+Interactive Filters: Dynamic filtering by order date and shipping modes.<br>
+Geographic Insights: Mapping business activity by country.<br>
+Visual KPIs: At-a-glance metrics for quick insights.<br>
+Trend Analysis: Year-over-year and quarterly trends for total orders.<br>
